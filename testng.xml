@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite" parallel="classes" thread-count="4">
+    <test name="C:/Users/vpavelescu/IdeaProjects/FinalHomeworkCristina/pom.xml">
+        <classes>
+            <class name="HomePageTests"/>
+            <class name="OwnersTests" />
+            <class name="PetTypesTests"/>
+            <class name="VeterinariansTests"/>
+        </classes>
+
+    </test>
+</suite>

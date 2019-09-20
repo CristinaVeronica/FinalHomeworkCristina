@@ -1,0 +1,68 @@
+Sep 20, 2019 5:42:59 PM HomePageTests checkLogo
+INFO: Check if logo appears on the home page
+Sep 20, 2019 5:43:00 PM OwnersTests createAnOwner
+INFO: Click on owners
+Sep 20, 2019 5:43:00 PM OwnersTests createAnOwner
+INFO: Click on add new owner
+Sep 20, 2019 5:43:00 PM OwnersTests createAnOwner
+INFO: Fill in first name
+Sep 20, 2019 5:43:00 PM OwnersTests createAnOwner
+INFO: Fill in last name
+Sep 20, 2019 5:43:01 PM OwnersTests createAnOwner
+INFO: Fill in address
+Sep 20, 2019 5:43:01 PM PetTypesTests addPetType
+INFO: Click on Pet Types
+Sep 20, 2019 5:43:01 PM PetTypesTests addPetType
+INFO: Insert pet name
+Sep 20, 2019 5:43:01 PM OwnersTests createAnOwner
+INFO: Fill in city
+Sep 20, 2019 5:43:01 PM OwnersTests createAnOwner
+INFO: Fill in phone number
+Sep 20, 2019 5:43:02 PM OwnersTests createAnOwner
+INFO: Check if add owned button apears
+Sep 20, 2019 5:43:04 PM PetTypesTests addPetType
+INFO: Check if animal type has been added to list
+Sep 20, 2019 5:43:05 PM OwnersTests createAnOwner
+INFO: Check if owner has been added to list
+Sep 20, 2019 5:43:05 PM HomePageTests checkMenuBar
+INFO: Check if menu bar is on the home page
+Sep 20, 2019 5:43:09 PM VeterinariansTests createRandomVeterinarians
+INFO: Click on veterinarians 
+Sep 20, 2019 5:43:09 PM VeterinariansTests createRandomVeterinarians
+INFO: Click on add veterinarians
+Sep 20, 2019 5:43:10 PM VeterinariansTests createRandomVeterinarians
+INFO: Fill in veterinarian's first name
+Sep 20, 2019 5:43:10 PM VeterinariansTests createRandomVeterinarians
+INFO: Fill in veterinarian's last name
+Sep 20, 2019 5:43:10 PM VeterinariansTests createRandomVeterinarians
+INFO: Choose veterinarian type
+Sep 20, 2019 5:43:10 PM VeterinariansTests createRandomVeterinarians
+INFO: Click on save button
+Sep 20, 2019 5:43:11 PM PetTypesTests deletePets
+INFO: Click on Pet Types
+Sep 20, 2019 5:43:11 PM PetTypesTests deletePets
+INFO: Insert pet name
+Sep 20, 2019 5:43:13 PM HomePageTests checkTextIsDisplayed
+INFO: Check if welcome message appears on the home page
+Sep 20, 2019 5:43:13 PM VeterinariansTests createRandomVeterinarians
+INFO: Check if veterinarian has been added to list
+Sep 20, 2019 5:43:15 PM PetTypesTests deletePets
+INFO: Delete pet type
+Sep 20, 2019 5:43:19 PM HomePageTests checkWelcomePicture
+INFO: Check if welcome picture is present on the home page
+Sep 20, 2019 5:43:20 PM VeterinariansTests deleteVeterin
+INFO: Click on veterinarians 
+Sep 20, 2019 5:43:20 PM VeterinariansTests deleteVeterin
+INFO: Click on add veterinarians
+Sep 20, 2019 5:43:20 PM VeterinariansTests deleteVeterin
+INFO: Fill in veterinarian's first name
+Sep 20, 2019 5:43:22 PM VeterinariansTests deleteVeterin
+INFO: Fill in veterinarian's last name
+Sep 20, 2019 5:43:25 PM VeterinariansTests deleteVeterin
+INFO: Choose veterinarian type
+Sep 20, 2019 5:43:27 PM VeterinariansTests deleteVeterin
+INFO: Click on save button
+Sep 20, 2019 5:43:30 PM VeterinariansTests deleteVeterin
+INFO: Delete the veterinarian previously added
+Sep 20, 2019 5:43:33 PM VeterinariansTests deleteVeterin
+INFO: Check if veterinarian has been deleted from list
